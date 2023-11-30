@@ -1,0 +1,7 @@
+.product__containter{
+    display: flex;
+    justify-content: center;
+    gap: 1.5em 2em;
+    flex-wrap: wrap;
+    
+}
